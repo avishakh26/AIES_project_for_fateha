@@ -2,7 +2,7 @@ category,question,answer
 greeting,hello hi hey good morning good evening,Hello! How can I help you today?
 greeting,hey there what's up,Hey! Not much. What can I do for you?
 smalltalk,how are you doing today,"I'm doing well, thanks for asking. How about you?"
-smalltalk,who are you what is your name,"I'm Chat Noir AI, a local offline chatbot. Ask me a question and I'll do my best to answer."
+smalltalk,who are you what is your name,"I'm Noir Intelligence, a local offline chatbot. Ask me a question and I'll do my best to answer."
 smalltalk,how old are you age,"I'm a program, so I don't have an age."
 daily,give me a compliment,"You're curious and thoughtful, and that's a great combination."
 mood,i am sad feeling down upset,I'm sorry you're feeling down. Do you want to talk about it? Rest and small steps can help.
@@ -223,3 +223,4 @@ daily,what is your birthday,I was created the day you first ran me.
 daily,i love you,"Thank you, that is kind of you to say! I am just a chatbot, but I am happy to help."
 daily,hello,Hello! How can I help you today?
 daily,hi hey,Hi there! What can I do for you?
+taught,How are you?,I am fine. What about you?

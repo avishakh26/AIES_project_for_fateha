@@ -1,4 +1,4 @@
-"""Local Chat Noir AI chatbot. No network, no API keys, no third-party packages.
+"""Local Noir Intelligence chatbot. No network, no API keys, no third-party packages.
 
 Knowledge lives in a CSV file with the columns: category, question, answer.
 `question` holds keywords/phrases; the agent retrieves the best matching row

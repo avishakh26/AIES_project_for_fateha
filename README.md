@@ -1,4 +1,4 @@
-# Chat Noir AI
+# Noir Intelligence
 
 A fully local, offline chatbot. No API keys, no internet, no cloud.
 

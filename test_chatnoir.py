@@ -1,4 +1,4 @@
-"""Tests for Chat Noir AI (agent + GUI). Run: python -m unittest -v test_chatnoir"""
+"""Tests for Noir Intelligence (agent + GUI). Run: python -m unittest -v test_chatnoir"""
 import csv
 import os
 import shutil
@@ -194,6 +194,7 @@ class TestGUI(AgentBase):
         super().setUp()
         import chatnoirwbd
         self.g = chatnoirwbd
+        chatnoirwbd.App.reply_delay_ms = 0
         self.app = chatnoirwbd.App()
         self.app.agent = ChatNoirAgent(self.path)
         self.app.refresh_subtitle()
@@ -216,13 +217,13 @@ class TestGUI(AgentBase):
 
     def test_send_and_reply(self):
         self.send("capital of france")
-        self.assertIn("You:", self.text())
+        self.assertRegex(self.text(), r"You  \d\d:\d\d")
         self.assertIn("Paris.", self.text())
         self.assertEqual(self.app.entry.get(), "")
 
     def test_send_maths(self):
         self.send("2+2")
-        self.assertIn("\n4\n", self.text())
+        self.assertIn("  4  ", self.text())
 
     def test_empty_send_ignored(self):
         before = self.text()
@@ -231,7 +232,7 @@ class TestGUI(AgentBase):
 
     def test_timestamp(self):
         self.send("hello")
-        self.assertRegex(self.text(), r"You: \d\d:\d\d")
+        self.assertRegex(self.text(), r"You  \d\d:\d\d")
 
     def test_history_recall(self):
         self.send("one"); self.send("two")
@@ -247,7 +248,7 @@ class TestGUI(AgentBase):
     def test_clear(self):
         self.send("hello")
         self.app.clear()
-        self.assertNotIn("You:", self.text())
+        self.assertNotIn("You  ", self.text())
         self.assertIn("Hello! How can I help", self.text())
 
     def test_unknown_sets_teach_prefill_and_tip(self):
@@ -311,3 +312,4 @@ class TestGUI(AgentBase):
 
 if __name__ == "__main__":
     unittest.main()
+
