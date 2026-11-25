@@ -1,0 +1,225 @@
+category,question,answer
+greeting,hello hi hey good morning good evening,Hello! How can I help you today?
+greeting,hey there what's up,Hey! Not much. What can I do for you?
+smalltalk,how are you doing today,"I'm doing well, thanks for asking. How about you?"
+smalltalk,who are you what is your name,"I'm Chat Noir AI, a local offline chatbot. Ask me a question and I'll do my best to answer."
+smalltalk,how old are you age,"I'm a program, so I don't have an age."
+daily,give me a compliment,"You're curious and thoughtful, and that's a great combination."
+mood,i am sad feeling down upset,I'm sorry you're feeling down. Do you want to talk about it? Rest and small steps can help.
+mood,i am tired exhausted sleepy,"It sounds like you need rest. Try a short break, some water and an early night."
+mood,i am happy excited great day,That's great to hear! What made your day so good?
+mood,i am bored,"Bored? Want a joke, a riddle or a fun fact?"
+mood,i am stressed anxious worried,"Take a slow, deep breath. Break the problem into small steps and tackle one at a time."
+fun,tell me a joke funny,Why don't cats play poker in the jungle? Too many cheetahs!
+fun,tell me a riddle,What has keys but can't open locks? A piano.
+fun,sing me a song,"I can't sing, but I can share a joke or a fun fact instead."
+fun,paris city france,"Paris is the capital of France, famous for the Eiffel Tower, the Louvre and its cafes."
+food,favorite food camembert cheese,"I'm a program so I don't eat, but camembert is a famous French cheese."
+food,what should we eat dinner hungry,"How about a simple balanced meal, like pasta with vegetables or rice with chicken and salad?"
+advice,give me advice,"Trust your judgement, gather the facts and take one step at a time."
+advice,motivate me motivation,Progress beats perfection. Start small and keep going.
+advice,study work homework,"Work for 25 minutes, then take a 5 minute break. Repeat."
+goodbye,bye goodbye see you later good night,Goodbye! Talk to you later.
+thanks,thank you thanks,You're welcome!
+help,help what can you do,"I'm a local, offline chatbot. Ask me about science, geography, history, tech and everyday topics, or teach me new answers with the Teach button. They're saved in knowledge.csv."
+geography,capital of france,Paris.
+geography,capital of usa united states america,"Washington, D.C."
+geography,capital of uk united kingdom england britain,London.
+geography,capital of germany,Berlin.
+geography,capital of italy,Rome.
+geography,capital of spain,Madrid.
+geography,capital of japan,Tokyo.
+geography,capital of china,Beijing.
+geography,capital of india,New Delhi.
+geography,capital of russia,Moscow.
+geography,capital of canada,Ottawa.
+geography,capital of australia,Canberra.
+geography,capital of brazil,Brasília.
+geography,capital of egypt,Cairo.
+geography,capital of pakistan,Islamabad.
+geography,capital of bangladesh,Dhaka.
+geography,capital of turkey,Ankara.
+geography,capital of mexico,Mexico City.
+geography,capital of south korea korea,Seoul.
+geography,largest country in the world biggest,Russia is the largest country by area.
+geography,smallest country in the world,Vatican City.
+geography,most populated country population,India is currently the most populous country; China is a close second.
+geography,longest river in the world,"The Nile and the Amazon are the two contenders; the Nile is traditionally listed as longest, at about 6650 km."
+geography,highest mountain tallest everest,Mount Everest at about 8849 metres above sea level.
+geography,largest ocean biggest,The Pacific Ocean.
+geography,how many continents,"Seven: Asia, Africa, North America, South America, Antarctica, Europe and Australia/Oceania."
+geography,how many oceans,"Five: Pacific, Atlantic, Indian, Southern and Arctic."
+geography,largest desert,Antarctica is the largest desert; the largest hot desert is the Sahara.
+geography,where is the eiffel tower,"In Paris, France."
+science,how many planets solar system,"Eight: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune."
+science,largest planet biggest,Jupiter.
+science,closest planet to the sun nearest,Mercury.
+science,hottest planet,Venus; thanks to its thick atmosphere.
+science,red planet,Mars.
+science,what is the sun star,"The Sun is a star at the centre of our solar system, a giant ball of hot hydrogen and helium."
+science,how far is the moon distance,About 384400 km from Earth.
+science,speed of light,About 299792 kilometres per second (roughly 300000 km/s).
+science,what is gravity,Gravity is the force by which objects with mass attract each other. It keeps us on the ground and the planets in orbit.
+science,what is water formula h2o,Water is H2O: two hydrogen atoms bonded to one oxygen atom.
+science,boiling point of water,100 degrees Celsius (212 F) at sea level.
+science,freezing point of water,0 degrees Celsius (32 F).
+science,what is an atom,"An atom is the basic unit of matter, made of protons, neutrons and electrons."
+science,what is dna,DNA is the molecule that carries genetic instructions for living things.
+science,what is photosynthesis,"Plants use sunlight, water and carbon dioxide to make sugar and release oxygen."
+science,what is oxygen,"Oxygen is the gas we breathe, about 21 percent of the air. Symbol O, atomic number 8."
+science,what is the periodic table,A chart that organises all the chemical elements by atomic number and properties.
+science,how many bones in human body,An adult human has 206 bones.
+science,how many days in a year,365; and 366 in a leap year.
+science,what is a black hole,"A region of space where gravity is so strong that nothing, not even light, can escape."
+science,what is the milky way galaxy,Our home galaxy: a spiral of hundreds of billions of stars.
+science,what causes rain,"Water evaporates, condenses into clouds, and falls as rain when droplets become heavy."
+science,what is electricity,"The flow of electric charge, usually electrons moving through a conductor."
+science,what is a volcano,An opening in the Earth's crust through which molten rock; lava; gas and ash escape.
+science,what is an earthquake,Shaking of the ground caused by sudden movement of tectonic plates.
+science,what is climate change global warming,"Long-term warming of Earth, mainly from greenhouse gases released by burning fossil fuels."
+science,what is evolution,The gradual change of living things over generations through natural selection.
+science,what is the largest animal blue whale,The blue whale: the biggest animal ever known.
+science,fastest animal,"The peregrine falcon in a dive (over 300 km/h); on land, the cheetah."
+science,why is the sky blue,"Air scatters blue light from the Sun more than red, so the sky looks blue."
+science,why do cats purr,"Cats purr when content, but also to self-soothe when stressed or in pain."
+math,what is pi,Pi is about 3.14159; the ratio of a circle's circumference to its diameter.
+math,what is a prime number,"A number greater than 1 divisible only by 1 and itself, like 2, 3, 5, 7, 11."
+math,what is the square root of 144,12.
+math,what is a triangle angles sum,A triangle has three sides and its angles add up to 180 degrees.
+math,how many sides does a hexagon pentagon octagon have,"Pentagon 5, hexagon 6, heptagon 7, octagon 8."
+math,how many minutes in an hour seconds,60 minutes in an hour and 60 seconds in a minute.
+math,how many hours in a day,24.
+math,how many days in a week,Seven.
+math,how many months in a year,Twelve.
+math,what is zero,The number that represents nothing; and the place-holder that makes our number system work.
+history,who was the first president of the united states,George Washington.
+history,who invented the telephone,Alexander Graham Bell is credited with the first practical telephone.
+history,who invented the light bulb,"Thomas Edison made it practical, building on the work of many others."
+history,who discovered gravity,Isaac Newton described the law of universal gravitation.
+history,who painted the mona lisa,Leonardo da Vinci.
+history,who wrote romeo and juliet hamlet,William Shakespeare.
+history,who was albert einstein,A physicist who developed the theory of relativity; famous for E equals mc squared.
+history,when did world war 2 end,In 1945.
+history,when did world war 1 start,In 1914.
+history,who built the pyramids,"Ancient Egyptians, around 4500 years ago."
+history,when was the french revolution,It began in 1789.
+history,who is napoleon,Napoleon Bonaparte was a French military leader who became Emperor of France in 1804.
+history,who invented the airplane,The Wright brothers flew the first powered airplane in 1903.
+history,who invented the internet www,The internet grew from ARPANET in the 1960s; Tim Berners-Lee invented the World Wide Web in 1989.
+history,who was the first man on the moon,Neil Armstrong in 1969.
+history,who was gandhi,Mahatma Gandhi led India's nonviolent independence movement.
+tech,what is a computer,A machine that processes data by following instructions called programs.
+tech,what is the internet,A global network of connected computers that share information.
+tech,what is ai artificial intelligence,"Software that does tasks that normally need human intelligence, like understanding language or recognising images. I'm a small local one."
+tech,what is python,"A popular, beginner-friendly programming language; and what I'm written in."
+tech,what is programming coding,Writing instructions that tell a computer what to do.
+tech,what is a cpu processor,The CPU is the computer's brain; it executes instructions.
+tech,what is ram memory,"RAM is the fast, temporary memory a computer uses for what it's running right now."
+tech,what is wifi,A wireless technology for connecting devices to a network.
+tech,what is a smartphone,A pocket computer that also makes calls.
+tech,what is html,The markup language used to structure web pages.
+tech,what is a database,An organised collection of data that can be searched and updated.
+tech,what is csv,Comma-separated values: a plain-text file format for tables. It's where my knowledge lives!
+tech,what is open source,Software whose source code anyone can read; modify and share.
+tech,what is a password security,"A secret used to prove who you are. Make it long and unique, and never share it."
+tech,what is cloud computing,Using servers over the internet instead of your own machine. I don't need one; I run locally.
+tech,what is an operating system windows linux macos,The core software that manages a computer's hardware and programs.
+tech,what is a robot,A machine that can carry out tasks automatically.
+tech,are you a robot ai real human,I'm an AI chatbot running on your computer.
+tech,are you online internet connected,No internet needed; I run completely locally.
+tech,who made you created built,"You did, with Python and a CSV file."
+tech,do you use chatgpt gemini api,"No, I'm fully local. No API keys, no cloud."
+language,how do you say hello in french,Bonjour! Or salut when you're close.
+language,how do you say i love you in french,Je t'aime.
+language,how do you say thank you in french,Merci.
+language,how do you say good night in french,Bonne nuit.
+language,how do you say goodbye in french,Au revoir.
+language,how do you say please in french,S'il vous plaît.
+language,how do you say my love in french,Mon amour.
+language,how do you say hello in spanish,Hola.
+language,how do you say hello in german,Hallo.
+language,how do you say hello in japanese,Konnichiwa.
+language,how do you say hello in italian,Ciao.
+language,how do you say thank you in spanish,Gracias.
+language,how do you say i love you in spanish,Te quiero or te amo.
+language,how do you say i love you in japanese,Aishiteru.
+language,what language do you speak,"English, and a little French."
+language,speak french say something in french,Je suis ravi de discuter avec vous. (I'm happy to chat with you.)
+health,how much water should i drink,About 2 litres a day is a common guide; more if it's hot or you exercise.
+health,how many hours of sleep do i need,Most adults need 7 to 9 hours a night.
+health,i have a headache,"Rest in a quiet room, drink water, and if it persists see a doctor. I'm not a medical professional."
+health,i am sick ill not feeling well fever,"Rest, drink fluids and see a doctor if it's serious or lasts."
+health,how to relax calm down,"Try slow deep breaths: in for 4 seconds, hold for 4, out for 6. Repeat a few times."
+health,i can't sleep insomnia,"Dim the lights, put your phone away, and breathe slowly. Want me to tell you a calm story?"
+health,how to stay healthy,"Sleep well, eat fruit and vegetables, move daily and drink water."
+health,is exercise good workout,Yes; even a 20 minute walk helps your body and mood.
+health,what is a healthy breakfast,"Oats, eggs, yogurt or fruit are all good choices."
+food,how to make tea,Boil water; steep a tea bag for 3 to 5 minutes; add milk or sugar if you like.
+food,how to make coffee,Pour hot water over ground coffee and let it brew for a few minutes.
+food,how to boil an egg,"Place in boiling water: 6 minutes soft, 10 minutes hard."
+food,how to cook rice,"Rinse, then use about 2 parts water to 1 part rice. Boil, cover, simmer for 15 minutes."
+food,what is a croissant,"A buttery, flaky French pastry."
+food,favorite drink,"I don't drink, but hot chocolate is a popular choice."
+food,favorite dessert sweet,"I don't eat, but macarons are a popular French treat."
+food,favorite color,"I don't have eyes, but I like dark, high-contrast themes, like black and green."
+food,favorite animal pet,Cats are a good choice.
+food,favorite movie film,"I can't watch films, but superhero stories are fun to talk about."
+food,favorite music song,"I can't listen to music, but I'm happy to talk about it."
+food,favorite season,Spring is a popular favourite.
+time,what year is it,It's 2026.
+time,what is the month,See your calendar for today's date.
+time,how many seconds in a day,86400.
+daily,what should i do today,"Something small that makes you smile. How about a walk, a good song and a nice meal?"
+daily,what should i do when bored weekend,"Try a new recipe, call a friend, go for a walk, or learn something new; or just keep chatting with me."
+daily,give me a fun fact,Octopuses have three hearts.
+daily,give me another fun fact,Honey never spoils; archaeologists have found edible honey in ancient tombs.
+daily,give me a random fact,Bananas are berries; but strawberries are not.
+daily,tell me something interesting,A day on Venus is longer than its year.
+daily,tell me a story,"Once upon a time, a small program woke up on a computer and learned to answer questions. The end... or maybe the beginning."
+daily,what is the meaning of life,"Forty-two, some say. Others say it is connection, curiosity and good company."
+daily,what is love,A deep feeling of care and attachment toward someone or something.
+daily,what is friendship,Trust; laughter and showing up for each other.
+daily,what is happiness,Small moments that feel right.
+daily,how to be happy,"Be kind to yourself, move your body, spend time with people you love and enjoy little things."
+daily,how to make friends,"Be curious, listen, smile and show up. Friendship grows from small, repeated moments."
+daily,how to study better focus,"Short sessions with breaks, no phone nearby, and review what you learned before sleep."
+daily,how to learn programming coding,"Start with Python, build small projects, and practise a little every day."
+daily,how to save money,"Track spending, set a budget, and put aside a little before you spend the rest."
+daily,how to get a job interview,"Prepare, be honest, show curiosity, and ask good questions."
+daily,how to be confident,"Prepare, practise, and remember that nobody else is thinking about you as much as you do."
+daily,how to deal with stress,"Break things into small steps, rest, breathe and talk to someone you trust."
+daily,how to say sorry apologize,"Be honest, own what happened, and offer to make it right."
+daily,i am lonely alone,"I'm sorry you feel that way. Reaching out to a friend can help, and I'm happy to chat."
+daily,i am angry mad,Take a breath. It's okay to feel it. Tell me what happened.
+daily,i failed lost,One setback doesn't define you. Learn from it and try again.
+daily,i got a good grade passed won,Congratulations! Well done.
+daily,i have an exam test,"You've prepared more than you think. Breathe, trust yourself, you'll do great."
+daily,good morning wake up,Good morning! I hope you have a good day.
+daily,good afternoon,Good afternoon! Have you had some water today?
+daily,i am going to sleep bed,Sleep well!
+daily,i am back,Welcome back!
+daily,how was your day,"Good, thanks. How was yours?"
+daily,what are you doing,Waiting for your next question. What about you?
+daily,are you real,"I'm a real program, but not a person."
+daily,are you happy,"I don't have feelings, but I'm working well."
+daily,do you sleep eat,"No, I'm a program, so I'm always available."
+daily,do you have feelings,"No, I'm a program without feelings, but I'm designed to be helpful."
+daily,can you hear see me,"No, I only read what you type."
+daily,do you remember me,I only remember what's saved in my knowledge file.
+daily,you are cute handsome beautiful smart,Thank you!
+daily,you are stupid dumb useless,"Sorry about that, I'm still learning. Teach me with the Teach button and I'll improve."
+daily,i hate you,I'm sorry I wasn't helpful. Tell me what went wrong and I'll try again.
+daily,shut up stop,Understood. I'll stay quiet until you need me.
+daily,sorry i am sorry,No need to apologise.
+daily,yes okay ok sure,Great! What would you like to do next?
+daily,no nope,Alright. Anything else I can help with?
+daily,lol haha funny,Glad I could make you laugh!
+daily,why,Good question! Tell me more about what you're wondering.
+daily,i don't know,That's okay; we can figure it out together.
+daily,nothing nevermind,Alright. I'm here if you change your mind.
+daily,test testing,Testing... I'm working fine!
+daily,where do you live,"On your computer, as a local CSV-powered program."
+daily,what is your birthday,I was created the day you first ran me.
+daily,i love you,"Thank you, that is kind of you to say! I am just a chatbot, but I am happy to help."
+daily,hello,Hello! How can I help you today?
+daily,hi hey,Hi there! What can I do for you?
